@@ -1,0 +1,2 @@
+# solaris
+Solaris and Puppetlabs
